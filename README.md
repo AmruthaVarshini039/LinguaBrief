@@ -103,3 +103,19 @@ In the `package.json` file, you can find the following scripts:
   * `npm run lint`: Lints the project files using ESLint.
   * `npm run preview`: Serves the production build locally for previewing.
   * `npm start`: Runs both the backend and frontend concurrently.
+
+
+    ##Screenshots
+![IMG-20250918-WA0001](https://github.com/user-attachments/assets/2fef6d39-f316-4d83-9a2f-34eaf7370030)
+![IMG-20250918-WA0002](https://github.com/user-attachments/assets/2e42fab2-aa43-46e3-8baf-13659dbf1df1)
+![IMG-20250918-WA0003](https://github.com/user-attachments/assets/1b476c3e-96e1-4c44-9e01-d35c1840b35d)
+![IMG-20250918-WA0004](https://github.com/user-attachments/assets/d6b4be3d-0198-486d-972c-b906c56749ea)
+![IMG-20250918-WA0005](https://github.com/user-attachments/assets/eed0d995-8b18-4bfe-ac51-07775cd4ede2)
+![IMG-20250918-WA0006](https://github.com/user-attachments/assets/8d40df92-9335-43dc-9879-0dfbe7dcc4a4)
+![IMG-20250918-WA0007](https://github.com/user-attachments/assets/36da044c-8843-4e0e-9993-d480c111c11e)
+
+
+
+
+
+
