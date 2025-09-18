@@ -1,0 +1,32 @@
+'''with open("file1.txt", "r") as file1:
+   file1_contents = file1.read();
+with open("file2.txt","r") as file2:
+    file2_contents = file2.read();
+with open("file3.txt","w") as file3:
+    file3_write(file1_contents + file2_contents); 
+
+import tkinter as tk
+master = tk.Tk();
+w = tk.Canvas(master, width=200, height=200);
+w.pack();
+# Define the event handler
+def rectangle(event):
+    w.create_rectangle(event.x, event.y, event.x + 10, event.y + 10, fill="violet");
+# Bind mouse left-click to the rectangle function
+w.bind("<Button-1>", rectangle);
+# Start the GUI loop
+master.mainloop();'''
+
+class A:
+    def rk(self):
+        print("In class A");
+class B:
+    def rk(self):
+        print("In class B");
+class C(A):
+    def rk(self):
+        print("In class C");
+class D(B,C):
+    pass;
+r = D();
+r.rk();
