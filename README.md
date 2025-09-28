@@ -18,16 +18,6 @@ Of course\! Based on the files you've provided, here is a comprehensive `README.
 
 -----
 
-## 🧪 Tech Stack
-
-| Layer | Technologies Used |
-| :--- | :--- |
-| **Frontend** | React, Vite, Tailwind CSS, Axios, Radix UI, Lucide React Icons |
-| **Backend** | Node.js, Express.js, Mongoose, bcryptjs, CORS |
-| **Database** | MongoDB (as indicated by Mongoose ODM) |
-| **Development** | ESLint, Concurrently, Vite HMR |
-
------
 
 ## Getting Started
 
